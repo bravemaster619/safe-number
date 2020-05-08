@@ -1,0 +1,25 @@
+{
+  "name": "safe-number",
+  "version": "1.0.0",
+  "description": "Safe number to use in eCommerce solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravemaster619/safe-number.git"
+  },
+  "keywords": [
+    "number",
+    "safe",
+    "number",
+    "e-commerce"
+  ],
+  "author": "bravemaster619",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bravemaster619/safe-number/issues"
+  },
+  "homepage": "https://github.com/bravemaster619/safe-number#readme"
+}
