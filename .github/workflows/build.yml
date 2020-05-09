@@ -24,8 +24,6 @@ jobs:
 
     - name: Install dependencies
       run: npm install
-    - name: Install global dependencies
-      run: npm i -g ts-node mocha typescript
     - name: Run tests
       run: npm run test
     - name: Build
