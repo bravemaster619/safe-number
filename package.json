@@ -2,8 +2,9 @@
   "name": "safe-number",
   "version": "1.0.0",
   "description": "Safe number to use in eCommerce solutions",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
+    "start": "tsc && node dist/index.js",
     "test": "npm run test"
   },
   "repository": {
@@ -21,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/bravemaster619/safe-number/issues"
   },
-  "homepage": "https://github.com/bravemaster619/safe-number#readme"
+  "homepage": "https://github.com/bravemaster619/safe-number#readme",
+  "devDependencies": {
+    "tslint": "^6.1.2",
+    "typescript": "^3.8.3"
+  }
 }
