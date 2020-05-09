@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/bravemaster619/safe-number/compare/v1.0.3...v1.0.4) (2020-05-09)
+
+
+### Bug Fixes
+
+* add npmignore ([37e50cf](https://github.com/bravemaster619/safe-number/commit/37e50cf3bdf576be9542c9aca0879653b256ac91))
+
 ### [1.0.3](https://github.com/bravemaster619/safe-number/compare/v1.0.2...v1.0.3) (2020-05-09)
 
 

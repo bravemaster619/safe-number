@@ -1,6 +1,6 @@
 {
   "name": "@bravemaster619/safe-number",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Safe number to use in eCommerce solutions",
   "main": "dist/safe-number.js",
   "types": "dist/index.d.ts",
