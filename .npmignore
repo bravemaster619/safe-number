@@ -3,6 +3,5 @@
 Dockerfile
 docker-compose.yml
 CHANGELOG.md
-README.md
 tsconfig.json
 tslint.json
