@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/bravemaster619/safe-number/compare/v1.0.2...v1.0.3) (2020-05-09)
+
+
+### Bug Fixes
+
+* add return type ([4842680](https://github.com/bravemaster619/safe-number/commit/4842680f01cf123b48ac7d76b094b6d6cfeed442))
+
 ### 1.0.2 (2020-05-09)
 
 
