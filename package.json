@@ -1,6 +1,6 @@
 {
   "name": "safe-number",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Safe number to use in eCommerce solutions",
   "main": "dist/safe-number.js",
   "types": "dist/index.d.ts",
