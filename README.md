@@ -4,20 +4,25 @@
 # safe-number
 Safe number to use in eCommerce solutions
 
-## Install
-
-```javascript
-npm i -S @bravemaster619/safe-number
-```
-
 ## Usage
 
 ```javascript
 import { safeNumber as $n } from "@bravemaster619/safe-number";
 
+// convert input value to number
+$n("6.19") // 6.19
+
+// for default, does not allow negative value
 $n(-6.19) // 0
+
+// return defaultValue if input is invalid
 $n(-6.19, 12.17) // 12.17
+$n(1/0, 0) // 0
+$n("string", 0) // 0
+
+// allow negative value
 $n(-6.19, 12,17, true) // -6.19
+
 
 ```
 
