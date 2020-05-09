@@ -1,4 +1,4 @@
-export const safeNumber = (num: any, defaultValue: number = 0, allowNegative: boolean = false) => {
+export const safeNumber = (num: any, defaultValue: number = 0, allowNegative: boolean = false): number => {
   num = parseFloat(num);
   if (isNaN(num) || !isFinite(num)) {
     return defaultValue;
