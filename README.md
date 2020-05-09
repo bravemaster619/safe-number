@@ -1,3 +1,6 @@
+![build](https://github.com/bravemaster619/safe-number/workflows/build/badge.svg)
+![dependabot](https://flat.badgen.net/dependabot/bravemaster619/safe-number?icon=dependabot)
+![download](https://img.shields.io/npm/dt/@bravemaster619/safe-number)
 # safe-number
 Safe number to use in eCommerce solutions
 
