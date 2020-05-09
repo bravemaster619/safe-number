@@ -1,0 +1,8 @@
+version: '2'
+services:
+  node:
+    build: .
+    command: npm run start
+    volumes:
+      - .:/usr/app
+      - /usr/app/node_modules
