@@ -1,6 +1,6 @@
 export const safeNumber = (num: any, defaultValue: number = 0, allowNegative: boolean = false) => {
   num = parseFloat(num);
-  if (isNaN(num) || !isFinite) {
+  if (isNaN(num) || !isFinite(num)) {
     return defaultValue;
   }
   if (num < 0 && !allowNegative) {
